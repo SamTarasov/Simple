@@ -139,7 +139,7 @@
   }
 }
 
-@media (max-width: 360px) {
+@media (max-width: 415px) {
   .nav {
     padding: 15px 0 10px 0;
     grid-template-rows: 1fr 1fr;
@@ -233,7 +233,7 @@
   }
 }
 
-@media (min-width: 361px) {
+@media (min-width: 416px) {
   .nav_center_510 {
     display: none;
   }
